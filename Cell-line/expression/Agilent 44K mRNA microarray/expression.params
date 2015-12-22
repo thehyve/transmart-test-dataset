@@ -1,0 +1,7 @@
+# Mandatory
+DATA_FILE_PREFIX=normalized.tsv
+MAP_FILENAME=subject_sample_mapping_chip.txt
+# Optional
+DATA_TYPE=L
+LOG_BASE=2
+

@@ -1,0 +1,7 @@
+# Mandatory
+ANNOTATIONS_FILE=GPL6480-platform.txt
+# Optional
+PLATFORM_TITLE="Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version)"
+#PLATFORM_ID=GPL6480
+#GENOME_RELEASE=
+

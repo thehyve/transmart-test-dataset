@@ -1,0 +1,16 @@
+Subject	KRAS-WT	KRAS-MUT-G12D	KRAS-MUT-G12V	KRAS-MUT-G13D	BRAF WT	BRAF-WT-V600E	EGFR WT	EGFR-MUT-R836R	EGFR-MUT-G719S	PIK3CA WT	PIK3CA-MUT-H1047R	PIK3CA-MUT-E545K	PIK3CA-MUT-D549N	MicroSat-Instability	DCR1	PHACTR3	WRN	MPLA-gain-P146-8q	MPLA-gain-P146-13q	MPLA-gain-P146-20q	MPLA-loss-X006-8p	MPLA-loss-X006-9p	MPLA-loss-X006-18q	MLH1 0-2 px+22	MLH1 0-2+AURKA px+20	MLH1 0-2+AURKA px+22	MLH1 1-2 px+22	MLH1 1-2+AURKA px+20	MLH1 1-2+AURKA px+22	 pCMV6-GFP p130	pCMV6-GFP p131	 TPX2-blunt p130	 TPX2-blunt p131	 TPX2-blunt p132	 TPX2-GFP p130	 TPX2-GFP p131	 TPX2-GFP p132	 TPX2-MCS p130	 TPX2-MCS p131	 Untreated p129	Untreated p130	Untreated p132	MLH1 0-2+AURKA px+14	MLH1 0-2+AURKA px+17	MLH1 0-2+AURKA px+24	MLH1 0-2+AURKA px+27	MLH1 1-2+AURKA px+14	MLH1 1-2+AURKA px+17	MLH1 1-2+AURKA px+27	MLH1 1-2+AURKA pCMV6-GFP px+24	MLH1 1-2+AURKA pCMV6-GFP px+25	MLH1 1-2+AURKA TPX2-blunt px+24	MLH1 1-2+AURKA TPX2-blunt px+25	MLH1 1-2+AURKA TPX2-GFP px+24	MLH1 1-2+AURKA TPX2-GFP px+25	MLH1 1-2+AURKA TPX2-MCS px+24	MLH1 1-2+AURKA TPX2-MCS px+25	MLH1 1-2+AURKA px+24	+AURKA px+88	+AURKA px+89
+CACO2	KRAS WT				BRAF WT		EGFR WT			PIK3CA WT				MSS	M	M	U			20q		9p	18q																																					
+COLO205	KRAS WT				BRAF mutated	mutated V600E	EGFR WT			PIK3CA WT				MSS																																														
+COLO320	KRAS WT				BRAF WT		EGFR WT			PIK3CA WT				MSS																																														
+HCT116	KRAS mutated			mutated G13D	BRAF WT		EGFR WT			PIK3CA mutated	mutated H1047R			MSI	M	M	U	8q						0.210308334	0.3330350395	0.1417013462	0.1481815384	0.230243032	0.176941305	0.4660669645	0.3075130213	16.8442849193	0.4603411932	0.997678494	17.8884606076	0.484033366	0.7605414191	10.7699228092	0.4208552966	0.3882011377	0.4667884468	0.7683831793	0.7040191982	0.8441466993	0.5725254307	0.8864380816	0.6027710069	0.7967164202	0.4716176016	0.8722401572	1.4394849941	50.6025623318	20.0076685164	61.1356029255	16.3037404065	63.0727433035	15.6521547645	1.0628431989	0.805189809	0.3988577956
+HCT15	KRAS mutated			mutated G13D	BRAF WT		EGFR WT			PIK3CA mutated		mutated E545K	mutated D549N	MSI																																														
+HT29	KRAS WT				BRAF mutated	mutated V600E	EGFR WT			PIK3CA WT				MSS	M	M	M			20q	8p																																							
+LIM1863	KRAS WT				BRAF WT		EGFR WT			PIK3CA WT				MSS																																														
+LS174T	KRAS mutated	mutated G12D			BRAF WT		EGFR WT			PIK3CA mutated	mutated H1047R			MSI																																														
+LS513	KRAS mutated	mutated G12D			BRAF WT		EGFR mutated	mutated R836R		PIK3CA WT				MSS																																														
+PC346c																																																												
+RKO	KRAS WT				BRAF mutated	mutated V600E	EGFR WT			PIK3CA mutated	mutated H1047R			MSI																																														
+SW1398	KRAS WT				BRAF mutated	mutated V600E	EGFR WT			PIK3CA WT				MSS																																														
+SW48	KRAS WT				BRAF WT		EGFR mutated		mutated G719S	PIK3CA WT				MSI																																														
+SW480	KRAS mutated		mutated G12V		BRAF WT		EGFR WT			PIK3CA WT				MSS	M		M		13q	20q	8p		18q																																					
+VCaP																																																												

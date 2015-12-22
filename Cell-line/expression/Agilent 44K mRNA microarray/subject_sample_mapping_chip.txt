@@ -1,0 +1,17 @@
+STUDY_ID	SITE_ID	SUBJECT_ID	SAMPLE_ID	PLATFORM	TISSUETYPE	ATTR1	ATTR2	CATEGORY_CD	SOURCE_CD
+Cell-line		COLO320	chip.microarray001.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		RKO	chip.microarray002.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		HCT116_MLH1	chip.microarray003.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		HCT116	chip.microarray004.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		SW480_AURKA	chip.microarray005.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		CACO2_AURKA	chip.microarray006.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		LS513	chip.microarray007.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		SW1398	chip.microarray008.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		CACO2	chip.microarray009.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		COLO205	chip.microarray010.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		SW480	chip.microarray011.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		HT29	chip.microarray012.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		LIM1863	chip.microarray013.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		SW48	chip.microarray014.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		HCT15	chip.microarray015.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
+Cell-line		LS174T	chip.microarray016.tsv	GPL6480	Colon			Molecular profiling+High-throughput molecular profiling+Expression (mRNA)+Agilent 44K mRNA microarray+Probe level+Normalised ratios	STD
